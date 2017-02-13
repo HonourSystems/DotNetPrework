@@ -59,8 +59,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="PrimeGeneratorTest.cs" />
+    <Compile Include="PrimeCalculatorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedisStringClientTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Prework\Prework.csproj">
